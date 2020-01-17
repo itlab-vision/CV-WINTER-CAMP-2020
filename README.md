@@ -1,5 +1,7 @@
 # Зимняя Межвузовская школа по оптимизации алгоритмов компьютерного зрения
 
+![header](docs/header.png)
+
 ## Программа школы
 
 ![school_program](docs/cvcamp_program.png)
