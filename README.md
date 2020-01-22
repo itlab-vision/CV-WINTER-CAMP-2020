@@ -2,10 +2,6 @@
 
 ![header](docs/header.png)
 
-## Программа школы
-
-![school_program](docs/cvcamp_program.png)
-
 ## Структура репозитория: 
 
 - `lectures` содержит презентации лекций.
