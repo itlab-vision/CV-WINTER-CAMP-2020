@@ -28,3 +28,9 @@ change the corresponding path in the llvm-project/deploy.bat file so that it poi
 1. Run CMD, change the directory to the local llvm-project folder checked out during step 2, and run the following batch file:
 deploy.bat
 This operation will take a *lot* of time - make sure that the batch file run is completed.  
+
+## Использование математических библиотек - практика
+
+1. Разархивируйте архив `matlibs_practice.zip`
+
+1. Соберите проекты из архива, изучите исходный код и сравните производительность различных оптимизаций кода.
