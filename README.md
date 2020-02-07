@@ -11,6 +11,12 @@
 
 Для выполнения практики требуется зарегистировать аккаунт Microsoft для работы в Visual Studio: https://login.microsoftonline.com/
 
+## Трансляции лекций
+
+ - Оптимизация производительности C++: [vk.com/intel_career?z=video-2139021_456239048](https://vk.com/intel_career?z=video-2139021_456239048)
+ 
+    [![c++ optimization](docs/cpp_optimization_lecture_img.jpg)](https://vk.com/intel_career?z=video-2139021_456239048)
+
 ## Коммуникация
 
 [![Gitter](https://badges.gitter.im/CV-SUMMER-CAMP/community.svg)](https://gitter.im/CV-SUMMER-CAMP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
