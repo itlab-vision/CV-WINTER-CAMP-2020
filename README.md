@@ -13,9 +13,13 @@
 
 ## Трансляции лекций
 
- - Оптимизация производительности C++: [vk.com/intel_career?z=video-2139021_456239048](https://vk.com/intel_career?z=video-2139021_456239048)
+ - Оптимизация производительности C++: [vk.com/video-2139021_456239048](https://vk.com/video-2139021_456239048)
  
-    [![c++ optimization](docs/cpp_optimization_lecture_img.jpg)](https://vk.com/intel_career?z=video-2139021_456239048)
+    [![c++ optimization](docs/cpp_optimization_lecture_img.jpg)](https://vk.com/video-2139021_456239048)
+    
+ - Обзор оптимизированных математических библиотек: [vk.com/video-2139021_456239049](https://vk.com/video-2139021_456239049)
+ 
+    [![c++ optimization](docs/math_libraries_lecture_img.jpg)](https://vk.com/video-2139021_456239049)
 
 ## Коммуникация
 
