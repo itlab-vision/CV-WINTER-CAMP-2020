@@ -21,6 +21,12 @@
  
     [![c++ optimization](docs/math_libraries_lecture_img.jpg)](https://vk.com/video-2139021_456239049)
 
+ - Оптимизация производительности OpenCV: [vk.com/video-2139021_456239050](https://vk.com/video-2139021_456239050)   
+    
+    [![c++ optimization](docs/opencv_optimizations_img.jpg)](https://vk.com/video-2139021_456239050)
+
+    
+    
 ## Коммуникация
 
 [![Gitter](https://badges.gitter.im/CV-SUMMER-CAMP/community.svg)](https://gitter.im/CV-SUMMER-CAMP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
