@@ -34,3 +34,7 @@ This operation will take a *lot* of time - make sure that the batch file run is 
 1. Разархивируйте архив `matlibs_practice.zip`
 
 1. Соберите проекты из архива, изучите исходный код и сравните производительность различных оптимизаций кода.
+
+## Оптимизация с использованием OpenCV - практика
+
+Подробное описание практики по оптимизации с использованием OpenCV и необходимые материалы расположены в репозитории [github.com/dkurt/cv_winter_camp_2020](https://github.com/dkurt/cv_winter_camp_2020).
